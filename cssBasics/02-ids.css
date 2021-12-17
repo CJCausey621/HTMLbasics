@@ -1,0 +1,22 @@
+#number-one, #number-two {
+    color: blueviolet;
+
+}
+#number-two {
+    font-size: 18px;
+}
+
+.first-class {
+    color: goldenrod;
+}
+p, h2 {
+    color: purple;
+}
+
+h1 {
+    color: plum;
+}
+
+.second-class{
+    text-decoration: underline;
+}
